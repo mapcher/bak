@@ -132,9 +132,3 @@
     <script src="/js/app.js"></script>
     </body>
 </html>
-<script>
-    import ExampleComponent from "../js/components/ExampleComponent";
-    export default {
-        components: {ExampleComponent}
-    }
-</script>

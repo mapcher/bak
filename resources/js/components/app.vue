@@ -51,7 +51,7 @@ export default {
     margin: auto;
 }
 .heading {
-    background: pink;
+    background: lightgray;
     padding: 10px;
 }
 

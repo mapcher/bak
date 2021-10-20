@@ -49,7 +49,7 @@ export default {
     align-items: center;
 }
 input {
-    background: aqua;
+    background: white;
     border: 0;
     outline: none;
     padding: 5px;
@@ -62,7 +62,7 @@ input {
     color: green;
 }
 .inactive {
-    color: gray;
+    color: darkgray;
 }
 
 </style>

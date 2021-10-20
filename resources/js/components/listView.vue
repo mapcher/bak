@@ -23,7 +23,7 @@ export default {
 
 <style scoped>
 .item {
-    background: yellow;
+    background: lightgray;
     padding: 5px;
     margin-top: 5px;
 }

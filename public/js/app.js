@@ -29576,7 +29576,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.addItem[data-v-390d6586] {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\ninput[data-v-390d6586] {\n    background: aqua;\n    border: 0;\n    outline: none;\n    padding: 5px;\n    margin-right: 10px;\n}\n.plus[data-v-390d6586] {\n    font-size: 20px;\n}\n.active[data-v-390d6586] {\n    color: green;\n}\n.inactive[data-v-390d6586] {\n    color: gray;\n}\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.addItem[data-v-390d6586] {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\ninput[data-v-390d6586] {\n    background: white;\n    border: 0;\n    outline: none;\n    padding: 5px;\n    margin-right: 10px;\n}\n.plus[data-v-390d6586] {\n    font-size: 20px;\n}\n.active[data-v-390d6586] {\n    color: green;\n}\n.inactive[data-v-390d6586] {\n    color: darkgray;\n}\n\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -29600,7 +29600,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.todoListContainer[data-v-f9a0fcb4] {\n    width: 350px;\n    margin: auto;\n}\n.heading[data-v-f9a0fcb4] {\n    background: pink;\n    padding: 10px;\n}\n#title[data-v-f9a0fcb4] {\n    text-align: center;\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.todoListContainer[data-v-f9a0fcb4] {\n    width: 350px;\n    margin: auto;\n}\n.heading[data-v-f9a0fcb4] {\n    background: lightgray;\n    padding: 10px;\n}\n#title[data-v-f9a0fcb4] {\n    text-align: center;\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -29648,7 +29648,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.item[data-v-cf768fa4] {\n    background: yellow;\n    padding: 5px;\n    margin-top: 5px;\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.item[data-v-cf768fa4] {\n    background: lightgray;\n    padding: 5px;\n    margin-top: 5px;\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
